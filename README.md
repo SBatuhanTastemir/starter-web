@@ -10,8 +10,7 @@ bla bla
 ## How to Contribute
 Sample website with plenty of files for demos
 askodpaksd
-asodaskd
-laskmdlaksmd
+hpelplapls
 alskdmaklsd
 aksdşaksdoaksd
 CopyRgiht
