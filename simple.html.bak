@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<!-- copyright 	
+-->
 <head>
 	<title>an exemple web</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -14,7 +16,7 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+			rererö
 		</p>
 	</main>
 	<footer class="container">
