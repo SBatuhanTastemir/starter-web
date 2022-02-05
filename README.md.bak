@@ -2,8 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 ## Introduction
-asdasda
-## Purpose
+asdasdah hyeter
+## Purpose 
 example
 bla bla
 
